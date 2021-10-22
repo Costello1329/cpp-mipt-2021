@@ -18,7 +18,7 @@ You'll also have 5 homework tasks during the semester. All homeworks cost 60 poi
 Each deadline will be stated in the correspoding readme.md file of the task.
 
 ### Exam:
-I will conduct an online examination: you'll have to complete an online test, solve contest and  attend the talk. Exam costs 40 points in total.
+I will conduct an online examination: you'll have to solve contest and attend the talk. Exam costs 40 points in total.
 
 ### Final mark:
 Your final mark can be calculated with this formula: `x >= 30 ? round(x / 10) : retake()` where x is your semester score.
