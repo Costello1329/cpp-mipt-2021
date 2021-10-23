@@ -1,10 +1,10 @@
 # C++ for the 1-st year international students.
 
 ## Links:
-+ Lectures and seminars ([Konstantin Leladze](https://t.me/konstantinleladze)): youtube [playlist](https://youtube.com/playlist?list=PL85_gNEP3vgReILPsym0C6B295kfjfVrv)
-+ Scores: google [spreadsheet]()
-+ Telegram group: invite [link](https://t.me/joinchat/sRYBQZ2XiJ44YjIy)
-+ [Contest]()
++ Lectures and seminars ([Konstantin Leladze](https://t.me/konstantinleladze)): [youtube playlist](https://youtube.com/playlist?list=PL85_gNEP3vgReILPsym0C6B295kfjfVrv)
++ [Scores]()
++ [Telegram chat](https://t.me/joinchat/sRYBQZ2XiJ44YjIy)
++ [Yandex contest]()
 
 ## Rules of the game:
 
