@@ -2,7 +2,7 @@
 
 ## Links:
 + Lectures and seminars ([Konstantin Leladze](https://t.me/konstantinleladze)): [youtube playlist](https://youtube.com/playlist?list=PL85_gNEP3vgReILPsym0C6B295kfjfVrv)
-+ [Scores]()
++ [Scores](https://docs.google.com/spreadsheets/d/1L22kWCzMYbk66SQmC0boS1RyRIurLIlfODbNfQNDwKQ/edit?usp=sharing)
 + [Telegram chat](https://t.me/joinchat/sRYBQZ2XiJ44YjIy)
 + [Yandex contest]()
 
