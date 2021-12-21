@@ -131,7 +131,7 @@
 - Operator overloading:
     - Assignment operator, it's signature and common implementation. Rule of three.
     - The idea of overloading operators
-    - Operator overloading using the class `vector` (3D) as an example:
+    - Operator overloading using the classes `vector` (3D math vector, not `std::vector` analogue) and `array` (`std::array` analogue) as an example:
         - Arithmetic operators.
             - The problem with the correctness of expressions like `x + y = z;`.
             - The problem in the case when the left operand is not a class object (expressions like `5 + x`).
