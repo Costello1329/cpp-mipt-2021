@@ -1,7 +1,7 @@
 # Course roadmap
 
 
-## Block 1: C, C++ 03, C++07
+## Block 1: Basics of C++ 03 and C++07
 
 ### General informations:
 - What is C++
