@@ -62,7 +62,6 @@
 - Loops: for, while, do while
 - Switch/case
 - Continue
-- Continue
 
 ### Arrays and pointers:
 - Arrays
