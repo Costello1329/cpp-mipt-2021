@@ -1,4 +1,4 @@
-# C++ for the 1-st year international students.
+# C++ Basics and Object Oriented Programming in C++.
 
 ## Links:
 + Lectures and seminars ([Konstantin Leladze](https://t.me/konstantinleladze)): [youtube playlist](https://youtube.com/playlist?list=PL85_gNEP3vgReILPsym0C6B295kfjfVrv)
@@ -12,16 +12,19 @@
 ## Rules of the game:
 
 ### Lessons:
-During the semester, the group will have 2 lessons of C++: 1 lecture and 1 seminar. Course roadmap can be found in the folder `roadmap`.
+During the semester, the group will have one lesson of C++. Lessons are conducted in Zoom. Links to lessons are posted in advance in telegram chat. Course roadmap can be found in the folder `roadmap`.
 
 ### Homework:
-It's absolutely prohibited to write off, each task must be solved individualy! We'll ban every writen off solution. Furthermore, we'll also ban the solution wrom which the other student has written off. If the simuation will happen again – it will cause an instant retake for both sides. You'll also need to stick to codestyle guide: [Google codestyle](https://google.github.io/styleguide/cppguide.html).
+It's absolutely prohibited to write off, each task must be solved individualy! We'll ban every writen off solution. Furthermore, we'll also ban the solution wrom which the other student has written off. If the simuation will happen again – it will cause an instant retake for both sides. You'll also have to stick to codestyle guide: [Google codestyle](https://google.github.io/styleguide/cppguide.html).
 
 ### Exam:
-I will conduct an online examination: you'll have to solve contest and attend the talk. Exam costs 40 points in total.
+I will conduct two online examinations:
++ In the firts semester you'll have to solve contest and attend the talk.
++
+Each exam costs `40` points in total.
 
 ### Final grade:
-Your final grade can be calculated with this formula: `x >= 30 ? round(x / 10) : retake()` where x is your semester score.
+You'll have two final grades for each of the semesters. Your final grade for every semester can be calculated with this formula: `semester_score >= 30 ? round(semester_score / 10) : retake()`.
 
 ## Copyright
 
