@@ -19,9 +19,8 @@ It's absolutely prohibited to write off, each task must be solved individualy! W
 
 ### Exam:
 I will conduct two online examinations:
-+ In the firts semester you'll have to solve contest and attend the talk.
-+
-Each exam costs `40` points in total.
++ In the first semester you'll have to solve examination contest and attend the talk. Contest costs `30` points, and it's limited in time (look above to find the link). Talk costs `10`. During a talk, you'll get one random ticket from the [first semester tickets list]()
++ In the second semester you'll have to only attend the talk. Talk costs `30` points in total. During a talk, you'll get two random tickets from the [second semester tickets list]() and receive one problem to solve (of course, you'll have to code). Each of two tickets can give you up to `10` points as well as a problem.
 
 ### Final grade:
 You'll have two final grades for each of the semesters. Your final grade for every semester can be calculated with this formula: `semester_score >= 30 ? round(semester_score / 10) : retake()`.
