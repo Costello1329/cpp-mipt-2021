@@ -151,6 +151,7 @@
 - Anti-patterns: `friend keyword`, `mutable keyword`
 - Using operator `sizeof` on classes and structures
 - Operator `alignof`
+- Aligning operator `new`
 - Specifier `alignas`
 - Pointers to functions
 - Pointers to members
@@ -267,6 +268,7 @@
 + `std::enable_shared_from_this`
 
 ### STL containers and iterators
++ Three-way comparison operator `<=>`
 + `std::allocator<vt>::rebind<vt2>`, example of usage and motivation
 + STL Containers: overview of three types of containers
 + `std::array`
@@ -310,6 +312,8 @@
 + `decltype(auto)`
 + Complite-time calculations
 + `constexpr` keyword
++ `consteval` and `constinit` keywords
++ C++ 20 concepts, `concept` and `require` keywords
 + `if constexpr`
 + `SFINAE`
 + `std::enable_if`
@@ -321,4 +325,31 @@
 + `std::is_base_of`
 + `std::common_type`
 + Typelist: motivation, implementation and examples
-+ 
+
+### Lambda-functions
++ Header `<functional>`
++ Motivation: callbacks (`std::sort`, `std::accumulate`, etc...)
++ Lambda-funcion
+    + Capture list:
+        + `this` capturing
+        + capture by reference
+        + `mutable` in capture lists
+        + capture with assigning: capture moved object as rvalue reference, capture as const lvalue reference with `std::as_const()`
+        + Capture by default (and why it is an anti-pattern)
+    + Return value, example: decltype of argument, received by auto in return value
+    + Auto in parameters, example: `std::forward<decltype(a)>`, where `a` is received by `auto&&`
+    + `std::function`
+    + `std::bind`
+    + `std::invoke`
+    + `std::invoke_result`
+
+### Utility and Numerics library:
++ `std::optional`
++ `std::any`
++ `std::variant`
++ `std::format`
++ Mathematical special functions (C++17)
++ Mathematical constants (C++20)
++ Numeric algorithms
++ Pseudo-random number generation
++ Date and time
