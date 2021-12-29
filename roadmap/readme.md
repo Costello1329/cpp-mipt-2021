@@ -167,6 +167,7 @@
     - template `using`
     - in-class `using`
     - in-scope `using`
+- `static_assert`
 
 <!--
 **Exceptions:**
