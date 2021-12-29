@@ -1,7 +1,7 @@
 # Course roadmap
 
 
-## Block 1: Basics of C++ 03 and C++07
+## Block 1: C++ Basics
 
 ### General informations:
 - What is C++
@@ -98,7 +98,8 @@
 - Common mistake: returning a reference to a local object from a function (why this is bad)
 - `const` qualified references
 
-## Block 2: Introduction to OOP
+
+## Block 2: OOP in C++
 
 ### Classes and structures:
 - Structures: motivation (example: `coordinates`), other examples (examples: `std::vector`, `std::cin`, `std::cout`, `std::string`)
@@ -214,3 +215,4 @@
     - keyword `final` (for methods)
 
 
+## Block 3: Modern Standards of C++
