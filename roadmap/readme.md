@@ -100,7 +100,7 @@
 
 ## Block 2: Introduction to OOP
 
-**Classes and structures**
+### Classes and structures:
 - Structures: motivation (example: `coordinates`), other examples (examples: `std::vector`, `std::cin`, `std::cout`, `std::string`)
 - Member-fields (variables)
 - Methods, `static` methods, `const` methods
@@ -154,7 +154,7 @@
 - Pointers to functions
 - Pointers to members
 
-**Templates**
+### Templates:
 - Functions specialization
 - What are templates (motivation):
     - Template classes and functions, exampels
@@ -173,7 +173,7 @@
 - `static_assert`
 -  template recursion: ideas and usage
 
-**Exceptions:**
+### Exceptions:
 - General idea:
     - Motivation for using exceptions.
     - The `throw` statement and the `try/catch` block.
@@ -186,7 +186,7 @@
 - Exceptions in destructors.
 - Security guarantees for exceptions: basic and strict.
 
-**Inheritance**
+### Inheritance:
 - Inheritance declaration:
     - `protected` access modifier.
     - Difference between `private`, `public` and `protected` inheritance.
