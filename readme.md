@@ -4,7 +4,7 @@
 + Lectures and seminars ([Konstantin Leladze](https://t.me/konstantinleladze)): [youtube playlist](https://youtube.com/playlist?list=PL85_gNEP3vgReILPsym0C6B295kfjfVrv)
 + Scores: [first semester](https://docs.google.com/spreadsheets/d/1L22kWCzMYbk66SQmC0boS1RyRIurLIlfODbNfQNDwKQ), [second semester](https://docs.google.com/spreadsheets/d/14todp2F1AqZAytMh8ncJ70VghaCJtvTusgK9HxYyrAk)
 + [Telegram chat](https://t.me/joinchat/sRYBQZ2XiJ44YjIy)
-+ Yandex contests
++ Yandex contests:
   + [Block 1](https://contest.yandex.ru/contest/30937/enter/?lang=en). Start date: `22.11.2021 00:00`. Duration: `28 days`
   + [Block 2](https://contest.yandex.ru/contest/31957/enter/?lang=en). Start date: `20.12.2021 00:00`. Duration: `28 days`
   + [Exam 1](https://contest.yandex.ru/contest/32339/enter/?lang=en). Start date: `21.01.2022 17:00`. Duration: `4 hours`
