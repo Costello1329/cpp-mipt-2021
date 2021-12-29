@@ -1,4 +1,4 @@
-# C++ Basics and Object Oriented Programming in C++
+# C++ MIPT
 
 ## Links:
 + Lectures and seminars ([Konstantin Leladze](https://t.me/konstantinleladze)): [youtube playlist](https://youtube.com/playlist?list=PL85_gNEP3vgReILPsym0C6B295kfjfVrv)
