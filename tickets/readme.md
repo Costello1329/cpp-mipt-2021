@@ -10,4 +10,12 @@
 6. Templates
 
 ## Tickets for the second semester exam
-1. ...
+1. Exceptions
+2. Inheritance
+3. Memory management
+4. Move semantics
+5. Smart pointers
+6. STL containers and iterators
+7. Type deduction and metagprogramming, type traits
+8. Lambda-functions
+9. Utility and Numerics libraries
