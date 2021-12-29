@@ -216,3 +216,109 @@
 
 
 ## Block 3: Modern Standards of C++
+
+### Memory management:
++ Operators `new`, `delete`, `new[]`, `delete[]`, how they work in details
++ Lifecycle of the data
++ Nothrow `operator new`
++ Raw data allocation and deallocation
++ Calling destructor explicitly
++ Operator placement new, calling constructor explicitly
++ `std::construct_at`, `std::destroy_at`
++ Operator `new` VS function "operator new"
++ Signature of the function "operator new"
++ Array versions of functions "operator new" and "operator delete"
++ Replacing functions "operator new" and "operator delete", motivation, example
++ Memory allocation mechanism, its interface
++ `std::allocator`
++ `std::allocator_traits`: motivation, typedefs and methods, usage
++ Custom allocators: motivation, examples
++ Comparison of different common custom allocators
+
+### Move semantics:
++ Rvalues and lvalues in C++07 (recap), troubles with them (examples)
++ Temporary objects
++ General idea of the new value mechanism in C++11: solving troubles of C++07
++ Rvalue references
++ `std::move`, invalidation of the initilial objects after move
++ Move constructor, its signature and implementation
++ Move assignment operator, its signature and implementation
++ Default move constructor and move assignment operator
++ The rule of **three/five/zero**
++ Copy elision, RVO, NRVO
++ Complete and incomplete tyeps
++ Universal references
++ `std::remove_reference`
++ `std::move` implementation
++ `std::forward`, its implementation
++ Value categories in C++11: `glvalue`, `rvalue`, `lvalue`, `prvalue`, `xvalue`
++ Reference qualifiers
++ Noexcept specifiers in C++17, conditional noexcept specifiers in C++17, potentially throwing functions in C++17, noexcept operator in C++17
+
+### Smart pointers
++ Motivation
++ `std::auto_ptr`
++ `std::unique_ptr`
++ `std::shared_ptr`
++ `std::make_shared`, `std::make_unique`
++ `std::allocate_shared`, `std::allocate_unique`
++ `std::weak_ptr`
++ Deleters
++ `std::enable_shared_from_this`
+
+### STL containers and iterators
++ `std::allocator<vt>::rebind<vt2>`, example of usage and motivation
++ STL Containers: overview of three types of containers
++ `std::array`
++ `std::vector`
++ Iterators, concept and motivation
+    + Input iterator
+    + Output iterator
+    + Forward iterator
+    + Bidirectional iterator
+    + Random access iterator
+    + Contiguous iterator
+    + const and reverse iterators
+    + `std::iterator`
+    + `std::reverse_iterator`
+    + `std::iterator_traits`
++ `std::deque`
++ `std::stack`
++ `std::queue`
++ `std::set`
++ `std::map`
++ `std::unordered_...` and `std::multi_...`
+
+### Type deduction and metagprogramming, type traits
++ Type traits:
+    + `std::is_const`
+    + `std::true_type`, `std::false_type`
+    + `std::is_same`
+    + `std::conjunction`
+    + `std::rank`
+    + `std::default_constructible`
+    + `std::copy_constructible`
+    + `std::move_constructible`
+    + `std::assignable`
+    + `std::copy_assignable`
+    + `std::move_assignable`
+    + `std::is_destructible`
+    + `std::is_nothrow_...`
++ C++17 version: `std::..._v`
++ Keyword `auto`
++ Keyword `decltype`
++ `decltype(auto)`
++ Complite-time calculations
++ `constexpr` keyword
++ `if constexpr`
++ `SFINAE`
++ `std::enable_if`
++ `std::is_class`, its implementation
++ `std::allocator_traits::construct` implementation
++ `std::declval`
++ `std::move_if_noexcept`
++ Example: iterator type deduction
++ `std::is_base_of`
++ `std::common_type`
++ Typelist: motivation, implementation and examples
++ 
