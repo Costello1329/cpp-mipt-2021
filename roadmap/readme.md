@@ -17,6 +17,9 @@
         - Semantic error
     - Runtime errors (`RE`)
     - Undefined behaviour (`UB`)
+- CMake compiler
+    - Setting up empty project in CLion with CMake
+    - Splitting project into multiple files
 
 ### Declarations & Definitions:
 - Fundamental types
@@ -168,46 +171,46 @@
     - in-class `using`
     - in-scope `using`
 - `static_assert`
+-  template recursion: ideas and usage
 
-<!--
 **Exceptions:**
 - General idea:
     - Motivation for using exceptions.
-    - The throw statement and the try ... catch construct.
+    - The `throw` statement and the `try/catch` block.
     - Examples of standard operators that throw exceptions.
 - Difference between exceptions and runtime errors. Errors that are not exceptions and exceptions that are not errors.
 - Rules for catching and re-throwing exceptions, casting types when catching exceptions. Catching all exceptions. The rules for choosing a catch block by the compiler in the case when different blocks are suitable.
 - Copying when throwing and catching exceptions. Features of catching exceptions by value and by reference.
-- Old-style exception specifications and their problems, unexpected exceptions. C ++ 11 style exception specifications, noexcept operator and specifier. Conditional noexcept.
+- Old-style exception specifications and their problems, unexpected exceptions. C++ 11 style exception specifications, `noexcept` operator and specifier. Conditional noexcept.
 - Exceptions in constructors and the problem of memory leaks on exceptions.
 - Exceptions in destructors.
 - Security guarantees for exceptions: basic and strict.
 
 **Inheritance**
 - Inheritance declaration:
-    - Protected access modifier.
-    - Difference between private, public and protected inheritance.
-    - Difference between class inheritance and structs.
-    - Final keyword
+    - `protected` access modifier.
+    - Difference between `private`, `public` and `protected` inheritance.
+    - Difference between `class` inheritance and `struct`.
+    - Keyword `final`
 - Finding names when inheriting:
     - Hiding names of the base class methods.
-    - Explicit call of the parent methods of the inheritor (Using ::).
-    - The order in which constructors and destructors are called in inheritance. The problem with the initialization of the parents when defining the constructor of the inheritor, again using the initializer lists.
-    - Multiple inheritance, ambiguity with it, diamond inheritance problem. Examples of disambiguation using type conversions and the operator::.
+    - Explicit call of the parent methods of the inheritor (Using `operator ::`).
+    - The order in which constructors and destructors are called in inheritance. The problem with the initialization of the parents when defining the constructor of the inheritor, again using the initializer lists to solve it.
+    - Multiple inheritance, ambiguity with it, diamond inheritance problem. Examples of disambiguation using type conversions and the `operator ::`.
 - Typecasting between parent and child:
     - Trimming when copying, casting pointers, casting references.
-    - Dynamic_cast operator (unlike static_cast)
-- Virtual functions, their general idea and difference from non-virtual ones:
-    - Features of allocation of classes with virtual functions in memory
-    - Virtual inheritance.
-    - Concept of the virtual function table
-    - Virtual destructor and its purpose
+    - Operator `dynamic_cast`
+- `virtual` functions, their general idea and difference from non-virtual ones:
+    - Features of allocation of classes with `virtual` functions in memory
+    - `virtual` inheritance.
+    - Concept of the `v-table`
+    - `virtual` destructor and its purpose
 - The concept of dynamic polymorphism, polymorphic classes
 - Placement in memory of classes
 - Abstract classes:
-    - Pure virtual functions, their features.
-    - Pure virtual destructor (and why it causes the linker error).
-    - Override keyword.
-    - `Final` keyword (for methods)
--->
+    - `pure virtual` functions, their features.
+    - `pure virtual` destructor (and why it causes the linker error).
+    - Keyword `override`.
+    - keyword `final` (for methods)
+
 
