@@ -256,7 +256,7 @@
 + Reference qualifiers
 + Noexcept specifiers in C++17, conditional noexcept specifiers in C++17, potentially throwing functions in C++17, noexcept operator in C++17
 
-### Smart pointers
+### Smart pointers:
 + Motivation
 + `std::auto_ptr`
 + `std::unique_ptr`
@@ -267,7 +267,7 @@
 + Deleters
 + `std::enable_shared_from_this`
 
-### STL containers and iterators
+### STL containers and iterators:
 + Three-way comparison operator `<=>`
 + `std::allocator<vt>::rebind<vt2>`, example of usage and motivation
 + STL Containers: overview of three types of containers
@@ -291,7 +291,7 @@
 + `std::map`
 + `std::unordered_...` and `std::multi_...`
 
-### Type deduction and metagprogramming, type traits
+### Type deduction and metagprogramming, type traits:
 + Type traits:
     + `std::is_const`
     + `std::true_type`, `std::false_type`
@@ -326,7 +326,7 @@
 + `std::common_type`
 + Typelist: motivation, implementation and examples
 
-### Lambda-functions
+### Lambda-functions:
 + Header `<functional>`
 + Motivation: callbacks (`std::sort`, `std::accumulate`, etc...)
 + Lambda-funcion
@@ -343,7 +343,7 @@
     + `std::invoke`
     + `std::invoke_result`
 
-### Utility and Numerics library:
+### Utility and Numerics libraries:
 + `std::optional`
 + `std::any`
 + `std::variant`
