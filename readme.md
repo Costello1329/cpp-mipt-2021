@@ -23,7 +23,7 @@ It's absolutely prohibited to write off, each task must be solved individualy! W
 ### Exam:
 I will conduct two online examinations (one in each of the semesters). 
 Each time you'll have to solve examination contest and attend the talk. Contest costs `30` points n the first semester and `10` in the second respectively.
-Contest is strictly limited in time (look above to find links and durations). Talk costs `10` in the each of the semesters. During a talk, you'll get one random ticket from the list: [first semester tickets](https://github.com/Costello1329/cpp-mipt-2021/tree/master/first_semester_tickets) – in the first semester and [second semester tickets](https://github.com/Costello1329/cpp-mipt-2021/tree/master/second_semester_tickets) – in the second one.
+Contest is strictly limited in time (look above to find links and durations). Talk costs `10` in the each of the semesters. During a talk, you'll get one random ticket from the list: [first semester tickets](https://github.com/Costello1329/cpp-mipt-2021/tree/master/tickets#tickets-for-the-first-semester-exam) – in the first semester and [second semester tickets](https://github.com/Costello1329/cpp-mipt-2021/tree/master/tickets#tickets-for-the-second-semester-exam) – in the second one.
 
 ### Final grade:
 You'll have two final grades for each of the semesters. Your final grade for every semester can be calculated with this formula: `(semester_score >= 30 && exam_talk_score >= 3) ? round(semester_score / 10) : retake()`. The formula implies that you must get at least `30` points for problems and pass talk with `3` points to get a positive final grade.
