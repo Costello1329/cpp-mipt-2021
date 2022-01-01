@@ -219,7 +219,11 @@
 ## Block 3: Modern Standards of C++
 
 ### Memory management:
-+ Operators `new`, `delete`, `new[]`, `delete[]`, how they work in details
++ Operators `new`, `delete`, `new[]`, `delete[]`, recap and how they work in details
++ Alignas new
+    + Size of structures
+    + Alignof
+    + Alignas specifier
 + Lifecycle of the data
 + Nothrow `operator new`
 + Raw data allocation and deallocation
