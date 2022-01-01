@@ -331,6 +331,8 @@
 + Typelist: motivation, implementation and examples
 
 ### Lambda-functions:
++ Pointers to functions
++ Pointers to members
 + Header `<functional>`
 + Motivation: callbacks (`std::sort`, `std::accumulate`, etc...)
 + Lambda-funcion
