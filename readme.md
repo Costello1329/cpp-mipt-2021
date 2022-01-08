@@ -6,7 +6,7 @@
 + [Telegram chat](https://t.me/joinchat/sRYBQZ2XiJ44YjIy)
 + Yandex contests:
   + [Block 1](https://contest.yandex.ru/contest/30937/enter/?lang=en). Start date: `22.11.2021 00:00`. Duration: `28 days`
-  + [Block 2](https://contest.yandex.ru/contest/31957/enter/?lang=en). Start date: `20.12.2021 00:00`. Duration: `28 days`
+  + [Block 2](https://contest.yandex.ru/contest/31957/enter/?lang=en). Start date: `20.12.2021 00:00`. Duration: `35 days`
   + [Exam 1](https://contest.yandex.ru/contest/32339/enter/?lang=en). Start date: `21.01.2022 16:00`. Duration: `4 hours`
   + [Block 3](https://contest.yandex.ru/contest/34048/enter/?lang=en). Start date: `21.02.2022 00:00`. Duration: `49 days`
   + [Block 4](https://contest.yandex.ru/contest/34050/enter/?lang=en). Start date: `11.04.2022 00:00`. Duration: `49 days`

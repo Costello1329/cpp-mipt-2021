@@ -7,15 +7,15 @@
 3. Arrays, pointers and references in C++
 4. Structure and class definitions: member fiedls, methods, constructors and destructors
 5. Encapsulation, private and public keywords, class operator overloading
-6. Templates
 
 ## Tickets for the second semester exam
-1. Exceptions
-2. Inheritance
-3. Memory management
-4. Move semantics
-5. Smart pointers
-6. STL containers and iterators
-7. Type deduction and metagprogramming, type traits
-8. Lambda-functions
-9. Utility and Numerics libraries
+1. Templates
+2. Exceptions
+3. Inheritance
+4. Memory management
+5. Move semantics
+6. Smart pointers
+7. STL containers and iterators
+8. Type deduction and metagprogramming, type traits
+9. Lambda-functions
+10. Utility and Numerics libraries
