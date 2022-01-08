@@ -134,27 +134,22 @@
 - Operator overloading:
     - Assignment operator, it's signature and common implementation. Rule of three.
     - The idea of overloading operators
-    - Operator overloading using the classes `vector` (3D math vector, not `std::vector` analogue) and `array` (`std::array` analogue) as an example:
-        - Arithmetic operators.
-            - The problem with the correctness of expressions like `x + y = z;`.
+    - Operator overloading using the classes `vector` (3D math vector, not `std::vector` analogue), `array` (`std::array` analogue) and `bigint` as an example:
+        - Arithmetic operators
+            - The problem with the correctness of expressions like `x + y = z;` and `-x = y;`.
             - The problem in the case when the left operand is not a class object (expressions like `5 + x`).
         - Compound assignments, correct signatures
         - Overloading logical operators.
         - Overloading bitwise operators, including overloading operators << and >> using stream I / O as an example.
         - Comparison operators overloading.
+        - Overloading cast operators.
     - Overloading of the `operator[]`: `const` and `non-const` versions.
     - Overloading of C-style cast operator. Another use for the `explicit` keyword.
     - Overloading the `operator()`. Why is it n-ary? What's the signature? The concept of the functor.
-- `using namespace std::` (and why it is bad), solution: `using std::...`
 - Using built-in classes: `std::vector`, `std::array`, `std::string`, type `size_t`.
 - `enums`, using `switch/case` on enums
-- Anti-patterns: `friend keyword`, `mutable keyword`
-- Using operator `sizeof` on classes and structures
-- Operator `alignof`
-- Aligning operator `new`
-- Specifier `alignas`
-- Pointers to functions
-- Pointers to members
+- Anti-patterns: `friend keyword`, `mutable keyword`, `using namespace std::` (and why it is bad), solution: `using std::...`
+– Namespaces
 
 ### Templates:
 - Functions specialization
