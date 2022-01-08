@@ -146,7 +146,7 @@
     - Overloading of the `operator[]`: `const` and `non-const` versions.
     - Overloading of C-style cast operator. Another use for the `explicit` keyword.
     - Overloading the `operator()`. Why is it n-ary? What's the signature? The concept of the functor.
-- Using built-in classes: `std::vector`, `std::array`, `std::string`, type `size_t`.
+- Using built-in classes: `std::vector`, `std::array`, `std::string`, type `size_t`, range-based for-loop (basics).
 - `enums`, using `switch/case` on enums
 - Anti-patterns: `friend keyword`, `mutable keyword`, `using namespace std::` (and why it is bad), solution: `using std::...`
 – Namespaces
