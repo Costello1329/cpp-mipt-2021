@@ -18,7 +18,7 @@
 During the semester, the group will have one lesson of C++. Lessons are conducted in Zoom. Links to lessons are posted in advance in telegram chat. Course roadmap can be found [here](https://github.com/Costello1329/cpp-mipt-2021/tree/master/roadmap/readme.md). Presentation slides from lessons can be found [here](https://github.com/Costello1329/cpp-mipt-2021/tree/master/lectures)
 
 ### Restrictions:
-It's absolutely prohibited to write off, each task must be solved individualy! We'll ban every writen off solution. Furthermore, we'll also ban the solution wrom which the other student has written off. If the simuation will happen again – it will cause an instant retake for both sides. You'll also have to stick to codestyle guide: [Google codestyle](https://google.github.io/styleguide/cppguide.html).
+It's absolutely prohibited to write off, each task must be solved individualy! We'll ban every writen off solution. Furthermore, we'll also ban the solution wrom which the other student has written off. If the situation will happen again – it will cause an instant retake for both sides. You'll also have to stick to codestyle guide: [Google codestyle](https://google.github.io/styleguide/cppguide.html).
 
 ### Exam:
 I will conduct two online examinations (one in each of the semesters). 
