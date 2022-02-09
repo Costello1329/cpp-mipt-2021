@@ -354,4 +354,4 @@
 + Numeric algorithms
 + Pseudo-random number generation
 + Date and time
-+ Ranges libraries
++ Ranges library
