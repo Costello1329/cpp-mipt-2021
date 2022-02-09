@@ -344,7 +344,7 @@
     + `std::invoke`
     + `std::invoke_result`
 
-### Utility and Numerics libraries:
+### Utility, numerics and ranges libraries:
 + `std::optional`
 + `std::any`
 + `std::variant`
@@ -354,3 +354,4 @@
 + Numeric algorithms
 + Pseudo-random number generation
 + Date and time
++ Ranges libraries
