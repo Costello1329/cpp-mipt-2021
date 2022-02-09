@@ -18,4 +18,4 @@
 7. STL containers and iterators
 8. Type deduction and metagprogramming, type traits
 9. Lambda-functions
-10. Utility and Numerics libraries
+10. Utility, numerics and ranges libraries
