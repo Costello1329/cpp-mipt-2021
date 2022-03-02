@@ -154,21 +154,17 @@
 ### Templates:
 - Functions specialization
 - What are templates (motivation):
-    - Template classes and functions, exampels
+    - Template classes and functions, examples
 - Template specializations:
-    - The principle: `particular is preferable to general`.
-    - Partial and full specializations
+    - The principle: `particular is preferable to general`
     - The principle is `the exact match is better`
+    - Partial and full specializations
     - Function specialization vs template function specialization
     - Compiler selection rules for specialization and overloading candidates 
 - Template parameters that are not types (example: `std::array`). Template template parameters
 - `typedef` keyword
-- `using` keyword
-    - template `using`
-    - in-class `using`
-    - in-scope `using`
-- `static_assert`
--  template recursion: ideas and usage
+- `using` keyword: template and non-template `using` versions
+-  template recursion: ideas and usage (example: function `print_all`)
 
 ### Exceptions:
 - General idea:
@@ -291,6 +287,7 @@
 + `std::unordered_...` and `std::multi_...`
 
 ### Type deduction and metagprogramming, type traits:
++ `static_assert`
 + Type traits:
     + `std::is_const`
     + `std::true_type`, `std::false_type`
