@@ -166,19 +166,6 @@
 - `using` keyword: template and non-template `using` versions
 -  template recursion: ideas and usage (example: function `print_all`)
 
-### Exceptions:
-- General idea:
-    - Motivation for using exceptions.
-    - The `throw` statement and the `try/catch` block.
-    - Examples of standard operators that throw exceptions.
-- Difference between exceptions and runtime errors. Errors that are not exceptions and exceptions that are not errors.
-- Rules for catching and re-throwing exceptions, casting types when catching exceptions. Catching all exceptions. The rules for choosing a catch block by the compiler in the case when different blocks are suitable.
-- Copying when throwing and catching exceptions. Features of catching exceptions by value and by reference.
-- Old-style exception specifications and their problems, unexpected exceptions. C++ 11 style exception specifications, `noexcept` operator and specifier. Conditional noexcept.
-- Exceptions in constructors and the problem of memory leaks on exceptions.
-- Exceptions in destructors.
-- Security guarantees for exceptions: basic and strict.
-
 ### Inheritance:
 - Inheritance declaration:
     - `protected` access modifier.
@@ -205,6 +192,20 @@
     - `pure virtual` destructor (and why it causes the linker error).
     - Keyword `override`.
     - keyword `final` (for methods)
+- Curiously recurring template pattern 
+
+### Exceptions:
+- General idea:
+    - Motivation for using exceptions.
+    - The `throw` statement and the `try/catch` block.
+    - Examples of standard operators that throw exceptions.
+- Difference between exceptions and runtime errors. Errors that are not exceptions and exceptions that are not errors.
+- Rules for catching and re-throwing exceptions, casting types when catching exceptions. Catching all exceptions. The rules for choosing a catch block by the compiler in the case when different blocks are suitable.
+- Copying when throwing and catching exceptions. Features of catching exceptions by value and by reference.
+- Old-style exception specifications and their problems, unexpected exceptions. C++ 11 style exception specifications, `noexcept` operator and specifier. Conditional noexcept.
+- Exceptions in constructors and the problem of memory leaks on exceptions.
+- Exceptions in destructors.
+- Security guarantees for exceptions: basic and strict.
 
 
 ## Block 3: Modern Standards of C++
