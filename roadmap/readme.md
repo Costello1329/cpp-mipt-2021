@@ -287,6 +287,8 @@
 + `std::map`
 + `std::unordered_...` and `std::multi_...`
 
+### NOTE: the following topics will not be covered in the course
+
 ### Type deduction and metagprogramming, type traits:
 + `static_assert`
 + Type traits:
