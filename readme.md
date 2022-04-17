@@ -15,7 +15,7 @@
 ## Rules of the game
 
 ### Lessons
-During the semester, the group will have one lesson of C++. Lessons are conducted in Zoom. Links to lessons are posted in advance in telegram chat. Course roadmap can be found [here](https://github.com/Costello1329/cpp-mipt-2021/tree/master/roadmap/readme.md). Presentation slides from lessons can be found [here](https://github.com/Costello1329/cpp-mipt-2021/tree/master/lectures)
+During the semester, the group will have one lesson of C++. Lessons are conducted in Zoom. Links to lessons are posted in advance in telegram chat. Course roadmap can be found [here](https://github.com/Costello1329/cpp-mipt-2021/tree/master/roadmap.md). Presentation slides from lessons can be found [here](https://github.com/Costello1329/cpp-mipt-2021/tree/master/lectures)
 
 ### Restrictions
 It's absolutely prohibited to write off, each task must be solved individualy! We'll ban every writen off solution. Furthermore, we'll also ban the solution wrom which the other student has written off. If the situation will happen again – it will cause an instant retake for both sides. You'll also have to stick to codestyle guide: [Google codestyle](https://google.github.io/styleguide/cppguide.html).
@@ -26,7 +26,7 @@ You'll have two final grades for each of the semesters. Your final grade for eve
 ### Exam
 I will conduct two online examinations (one in each of the semesters). 
 Each time you'll have to solve examination contest and attend the talk. Contest costs `30` points n the first semester and `10` in the second respectively.
-Contest is strictly limited in time (look above to find links and durations). Talk costs `10` in the each of the semesters. During a talk, you'll get one random ticket from the list: [first semester tickets](https://github.com/Costello1329/cpp-mipt-2021/tree/master/tickets#tickets-for-the-first-semester-exam) – in the first semester and [second semester tickets](https://github.com/Costello1329/cpp-mipt-2021/tree/master/tickets#tickets-for-the-second-semester-exam) – in the second one.
+Contest is strictly limited in time (look above to find links and durations). Talk costs `10` in the each of the semesters. During a talk, you'll get one random ticket from the list: [first semester tickets](https://github.com/Costello1329/cpp-mipt-2021/tree/master/tickets.md#tickets-for-the-first-semester-exam) – in the first semester and [second semester tickets](https://github.com/Costello1329/cpp-mipt-2021/tree/master/tickets.md#tickets-for-the-second-semester-exam) – in the second one.
 
 ### Exam talk
 On the appointed day of the exam talk, I will publish a list of students, which will include the talk start time for every individual student. At the appointed time, you should follow the link to the zoom conference, which I will send in the telegram chat. I will give you a ticket, and you will move to the online preparation room for thirty minutes, at this time I will listen to another student. During preparation, you can use whatever you want. After thirty minutes of preparation, we start discussing your ticket. During the discussion, I will ask additional questions, and, possibly, give you some simple tasks to check your skills in programming. As a result of the exam, I will give you a grade, and you will see it in the spreadsheet with grades. Be prepared to turn on the camera and show the code on your computer screen.
